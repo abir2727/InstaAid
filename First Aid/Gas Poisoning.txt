@@ -1,0 +1,3 @@
+Move the person away from the gaseous area.
+If the person is unconscious, check for injuries before moving.
+Turn off carbon monoxide source if you can do so safely.
